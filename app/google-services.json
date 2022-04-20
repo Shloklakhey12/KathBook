@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "620537450583",
+    "firebase_url": "https://kathbook-e1888.firebaseio.com",
+    "project_id": "kathbook-e1888",
+    "storage_bucket": "kathbook-e1888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620537450583:android:bc77560d6ab36b74",
+        "android_client_info": {
+          "package_name": "com.example.kathbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620537450583-743gg45jfmp19ikpf79992b65gjuqkfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kathbook",
+            "certificate_hash": "93edf8b3ce9c08aaf93d793125a36da1d3036a45"
+          }
+        },
+        {
+          "client_id": "620537450583-ntn6onmpdidsqvr4t5u93383af98j86j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kathbook",
+            "certificate_hash": "ab888ff1545bffabf51fa3c8b4e5b93d260e853a"
+          }
+        },
+        {
+          "client_id": "620537450583-1of3mtmvhensvaim9t850tcl5sti837r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kathbook",
+            "certificate_hash": "840d2b690e04e068da736b4872174bec167cc928"
+          }
+        },
+        {
+          "client_id": "620537450583-e2rq04l7c9pdfo4abnh4ailk9hua7lhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6BBzQs4EZxr-rir9zJ9jKtFlDvBbvy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620537450583-e2rq04l7c9pdfo4abnh4ailk9hua7lhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620537450583:android:f2a022ec3b4489fcbfd312",
+        "android_client_info": {
+          "package_name": "com.example.kathbook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620537450583-n69c8vh2lbubmh2q30dcgf9pld7lugao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kathbook_app",
+            "certificate_hash": "93edf8b3ce9c08aaf93d793125a36da1d3036a45"
+          }
+        },
+        {
+          "client_id": "620537450583-e2rq04l7c9pdfo4abnh4ailk9hua7lhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6BBzQs4EZxr-rir9zJ9jKtFlDvBbvy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620537450583-e2rq04l7c9pdfo4abnh4ailk9hua7lhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620537450583:android:04ec5e682d386f23",
+        "android_client_info": {
+          "package_name": "com.example.kathbookadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620537450583-funu77klcme6kjdl4uh8ftl8u2or7aqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kathbookadmin",
+            "certificate_hash": "93edf8b3ce9c08aaf93d793125a36da1d3036a45"
+          }
+        },
+        {
+          "client_id": "620537450583-a6e1s33mt7rl786qvkt1pmnguq434n96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kathbookadmin",
+            "certificate_hash": "ab888ff1545bffabf51fa3c8b4e5b93d260e853a"
+          }
+        },
+        {
+          "client_id": "620537450583-e2rq04l7c9pdfo4abnh4ailk9hua7lhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6BBzQs4EZxr-rir9zJ9jKtFlDvBbvy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620537450583-e2rq04l7c9pdfo4abnh4ailk9hua7lhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

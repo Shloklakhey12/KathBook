@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:padding="15dp">
+
+    <RatingBar
+        android:id="@+id/ratingbar"
+        style="@android:style/Widget.Holo.RatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:rating="5"
+        android:stepSize="1" />
+
+    <TextView
+        android:id="@+id/tvRatingScale"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ratingbar"
+        android:layout_centerHorizontal="true"
+        android:text="Awesome.I love it"
+        android:textStyle="bold"
+        android:textSize="16sp"/>
+
+    <EditText
+        android:layout_marginTop="5dp"
+        android:id="@+id/feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvRatingScale"
+        android:layout_centerHorizontal="true"
+        android:inputType="textMultiLine"
+        android:lines="3"
+        android:gravity="top"
+        android:hint="Feedback(optional)" />
+</RelativeLayout>

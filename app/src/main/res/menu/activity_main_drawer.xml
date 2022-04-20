@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_teachers"
+            android:icon="@drawable/ic_teacher"
+            android:title="Teachers" />
+        <item
+            android:id="@+id/nav_assignments"
+            android:icon="@drawable/ic_assignment"
+            android:title="Assignments" />
+        <item
+            android:id="@+id/nav_syllabus"
+            android:icon="@drawable/ic_syllabus"
+            android:title="Syllabus" />
+        <item
+            android:id="@+id/nav_queries"
+            android:icon="@drawable/ic_queries"
+            android:title="Queries" />
+
+
+    </group>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share" />
+
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_rate"
+                android:title="Rate us"
+
+                />
+
+
+        </menu>
+    </item>
+
+</menu>

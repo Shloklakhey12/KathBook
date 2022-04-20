@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">KathBook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="para1">
+        \n\t\t“KathBook” is a classroom application. It is a great way to connect all the aspects of education system within a college. It can serve teachers’ strategies and styles on one hand and students’ perception, understanding and effective participation in different classroom skills on the other hand.  Finding good quality apps that actually enhance teaching and learning can be tricky thus we are introducing “KathBook” the android application software which would be a miniature of our college website."\n
+    </string>
+    <string name="para2">
+         \t\tIn every section of education we all can see a communication gap among student, teacher and departments too. This causes a lot of problems in educational process. Previously, the college relied heavily on paper records for this initiative which has several drawbacks to this method. Now with the help of different application the drawbacks of traditional flow of information can be improved in big extend. The idea of this application was generated when we noticed many students were dependent on department of respective field for flow of every information and distribution of information or notices on time is a major problem faced by them at present situation. Thus, this application was based on lowering down the working load of departments and teachers.\n
+
+    </string>.
+    <string name="para3">
+        \t\tOn the extended view this application is equally useful for students to know about routines, notices, assignments or anything related to academic information. This kind of service is not available in our college so, developing such an android application can help a lot. The main objective of our application is to create a better interaction between students, teachers and administration.\n
+    </string>
+    <string name="para4">
+     "Contributors :"\n
+</string>
+    <string name="para5">
+        \tBibek Nepal(bibeknepal25@gmail.com)\n\n
+        \tManisha Manandhar(maneesamdr444@gmail.com)\n\n
+        \tNabin Shiwakoti(naveenneevan6403@gmail.com)\n\n
+        \tShlok Lakhey(shloklakhey12@gmail.com)\n\n\n
+    </string>
+    <string name="para6">
+        “KathBook”, an app made by the students,for the students.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
